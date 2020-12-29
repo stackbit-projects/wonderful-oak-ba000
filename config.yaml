@@ -55,6 +55,7 @@ params:
       rel="noopener">Stackbit</a>. Get yours <a
       href="https://app.stackbit.com/create?theme=fjord" target="_blank"
       rel="noopener">here</a>.
+  favicon: images/1.jpg
 taxonomies:
   stub: stub
 disableKinds:
