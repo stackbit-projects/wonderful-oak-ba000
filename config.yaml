@@ -21,7 +21,7 @@ params:
       - label: Contact
         url: /contact
         style: link
-      - label: lorem-ipsum
+      - label: Portfolio
         url: lorem-ipsum
         style: link
         icon_class: dev
