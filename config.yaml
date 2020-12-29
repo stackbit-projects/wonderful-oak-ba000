@@ -22,7 +22,7 @@ params:
         url: /contact
         style: link
       - label: Portfolio
-        url: lorem-ipsum
+        url: /portfolio
         style: link
         icon_class: dev
         new_window: false
