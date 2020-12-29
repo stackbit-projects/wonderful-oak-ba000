@@ -48,6 +48,7 @@ params:
         style: icon
         icon_class: dev
         new_window: true
+        no_follow: true
   footer:
     content: >-
       &copy; Stackbit. All rights reserved. This Jamstack site was created on <a
