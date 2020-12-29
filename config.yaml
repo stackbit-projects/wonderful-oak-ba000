@@ -4,7 +4,7 @@ params:
   palette: yellow
   header:
     title: Fjord
-    tagline: Minimal and clean blog theme
+    tagline: Miguel Aguilar
     logo_img: images/logo.svg
     logo_img_alt: Fjord Logo
     has_nav: true
