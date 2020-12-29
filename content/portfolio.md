@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Photography
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 layout: page
