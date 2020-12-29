@@ -1,6 +1,9 @@
 ---
 title: Photography
-subtitle: lorem-ipsum
+subtitle: >-
+  Photography is a new hobby that I started in early-2021. I'm still getting
+  started with it, so expect some rough pictures, but feel free to reach out and
+  let me know what I could work on!
 excerpt: lorem-ipsum
 layout: page
 ---
